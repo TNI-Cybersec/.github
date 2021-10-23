@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![TNI Cybersec Cover Image](https://github.com/TNI-Cybersec/tni-cybersec.github.io/blob/main/docs/img/TNI%20Cybersec%20Cover.png?raw=true)
+![TNI Cybersec Cover Image](https://github.com/TNI-Cybersec/tni-cybersec.github.io/blob/main/docs/img/TNI%20Cybersec%20Cover.jpg?raw=true)
 
 <!--
 
