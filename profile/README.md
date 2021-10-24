@@ -8,7 +8,7 @@
 ![TNI Cybersec Cover Image](https://github.com/TNI-Cybersec/tni-cybersec.github.io/blob/main/docs/img/TNI%20Cybersec%20Cover.jpg?raw=true)
 
 ## 🔗 Links
-- [NCSA Senior 2021 - Writeups](https://github.com/karinzaa/NCSA_Senior_Write_Up) *←ชั่วคราว⏳*
+- [NCSA - Thailand Cyber Top Talent 2021 - Writeups](https://github.com/karinzaa/NCSA_Senior_Write_Up) *←ชั่วคราว⏳*
 
 <!--
 
