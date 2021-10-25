@@ -9,7 +9,7 @@
 
 ## 🔗 Links
 - [![TNI Cybersec Page](https://img.shields.io/badge/TNI%20Cybersec-Like-blue?style=social&logo=facebook)](https://www.facebook.com/TNICybersec)
-- [NCSA - Thailand Cyber Top Talent 2021 - Writeups](https://github.com/karinzaa/NCSA_Senior_Write_Up) *←ชั่วคราว (⏳WIP)*
+- [NCSA - Thailand Cyber Top Talent 2021 - Writeups](https://github.com/karinzaa/NCSA_Senior_Write_Up) *←⏳WIP*
 - [click me ๆ](https://tni-cybersec.github.io/nevergonnagiveyouup.html) *←What's this 👀*
 
 <!--
