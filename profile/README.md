@@ -3,7 +3,7 @@
 <p align="center">
 </br>	
 
-# Hi there 👋
+# 👋こんにちは世界!👋
 ## [T̵N̸I̶ ̵C̸y̴b̸e̴r̸s̵e̷c̵](https://tni-cybersec.github.io)
 |Cyber club|[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)|
 |----|----|
