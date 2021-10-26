@@ -9,16 +9,6 @@
 
 ## 🔗 Links
 - [![TNI Cybersec Page](https://img.shields.io/badge/TNI%20Cybersec-Like-blue?style=social&logo=facebook)](https://www.facebook.com/TNICybersec)
+- [![TNI Cybersec Discord](https://img.shields.io/badge/TNI%20Cybersec-Join-black?style=social&logo=discord)](https://discord.gg/ETMkrHSGZG)
 - [NCSA - Thailand Cyber Top Talent 2021 - Writeups](https://github.com/karinzaa/NCSA_Senior_Write_Up) *←⏳WIP*
 - [click me ๆ](https://tni-cybersec.github.io/nevergonnagiveyouup.html) *←What's this 👀*
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
--->
