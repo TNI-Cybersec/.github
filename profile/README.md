@@ -1,11 +1,12 @@
-<!-- ## Hi there 👋 -->
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-    T̵N̸I̶ ̵C̸y̴b̸e̴r̸s̵e̷c̵
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-</h1>
+<br>
+<img align="right" src="https://imgur.com/SN6ZqUt.png" width="450"></img>
+<p align="center">
+</br>	
 
-![TNI Cybersec Cover Image](https://github.com/TNI-Cybersec/tni-cybersec.github.io/blob/main/docs/img/TNI%20Cybersec%20Cover.jpg?raw=true)
+# Hi there 👋
+## [T̵N̸I̶ ̵C̸y̴b̸e̴r̸s̵e̷c̵](https://tni-cybersec.github.io)
+|Cyber club|[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)|
+|----|----|
 
 ## 🔗 Links
 - [![TNI Cybersec Page](https://img.shields.io/badge/TNI%20Cybersec-Like-blue?style=social&logo=facebook)](https://www.facebook.com/TNICybersec)
