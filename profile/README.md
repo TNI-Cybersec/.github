@@ -18,5 +18,6 @@
 - [KPMG Cyber Security Challenge 2021 - Writeups](https://github.com/TNI-Cybersec/KPMG_Cyber_Security_Challenge_2021_Writeups) *←⏳WIP*
 
 ## 🛠 Awesome tool
-- [PakFlag](https://github.com/TNI-Cybersec/PakFlag) *1.10R2021*
-- [LucusExpress](https://github.com/karinzaa/LucusExpress) *2.00R2021*
+- [PakFlag](https://github.com/TNI-Cybersec/PakFlag) *1.10 R1 2021*
+- [LucusExpress](https://github.com/karinzaa/LucusExpress) *2.00 R2 2021*
+- [PI-BENCHMARK](https://github.com/karinzaa/PI-BENCHMARK) *MIRAI [未来] 1.3BETA R1 2019*
