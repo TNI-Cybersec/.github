@@ -19,3 +19,4 @@
 
 ## 🛠 Awesome tool
 - [PakFlag](https://github.com/TNI-Cybersec/PakFlag) *1.10R2021*
+- [LucusExpress](https://github.com/karinzaa/LucusExpress) *2.00R2021*
