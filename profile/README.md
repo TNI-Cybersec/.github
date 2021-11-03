@@ -5,7 +5,7 @@
 
 # 👋こんにちは世界!👋
 ## [T̵N̸I̶ ̵C̸y̴b̸e̴r̸s̵e̷c̵](https://tni-cybersec.github.io) *👈💻Our website ⏳WIP*
-|Cyber club|[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)|
+|Cyber Club|[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)|
 |----|----|
 
 ## 🔗 Links
