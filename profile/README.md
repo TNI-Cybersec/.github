@@ -11,6 +11,7 @@
 ## 🔗 Links
 - [![TNI Cybersec Page](https://img.shields.io/badge/TNI%20Cybersec-Like-blue?style=social&logo=facebook)](https://www.facebook.com/TNICybersec)
 - [![TNI Cybersec Discord](https://img.shields.io/badge/TNI%20Cybersec-Join-black?style=social&logo=discord)](https://discord.gg/ETMkrHSGZG)
+- [Cybersecurity Learning Path](https://docs.google.com/document/d/1JyOyCK6TmY-WOTmesg1ybG03_7t1eAFfV7E61vebEsw/edit?usp=sharing)
 - [Click me ๆ](https://tni-cybersec.github.io/nevergonnagiveyouup.html) *←What's this 👀*
 
 ## 👨‍💻 Writeups
