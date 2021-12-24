@@ -16,6 +16,7 @@
 ## 👨‍💻 Writeups
 - [NCSA - Thailand Cyber Top Talent 2021 - Writeups](https://github.com/karinzaa/NCSA_Senior_Write_Up) *←⏳WIP*
 - [KPMG Cyber Security Challenge 2021 - Writeups](https://github.com/TNI-Cybersec/KPMG_Cyber_Security_Challenge_2021_Writeups) *←⏳WIP*
+- [Thailand Cyber Top Students 2021 - Writeups](https://github.com/TNI-Cybersec/Thailand_Cyber_Top_Students_2021)
 
 ## 🛠 Awesome tools
 - [PakFlag](https://github.com/TNI-Cybersec/PakFlag) *1.01 R1 2021*
