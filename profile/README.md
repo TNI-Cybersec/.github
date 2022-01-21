@@ -13,6 +13,9 @@
 - [![TNI Cybersec Discord](https://img.shields.io/badge/TNI%20Cybersec-Join-black?style=social&logo=discord)](https://discord.gg/ETMkrHSGZG)
 - [Click me ๆ](https://tni-cybersec.github.io/nevergonnagiveyouup.html) *←What's this 👀*
 
+## 🧛‍♂️ Vulnerability
+- [log4shell-exploit](https://github.com/TNI-Cybersec/log4shell-exploit)
+
 ## 👨‍💻 Writeups
 - [SEC Playground Challenges Compilation - Writeups](https://github.com/TNI-Cybersec/SECPlayground-Writeups) *←⏳WIP*
 - [STDiO CTF Competition 2022 - Writeups](https://github.com/TNI-Cybersec/STDiO_CTF_2022)
