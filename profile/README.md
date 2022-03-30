@@ -16,7 +16,7 @@
 ## 🧛‍♂️ [Vulnerability](https://github.com/TNI-Cybersec/.github/blob/main/profile/vulnerability.md)
 - [log4shell-exploit](https://github.com/TNI-Cybersec/log4shell-exploit)
 
-## 👨‍💻 Writeups
+## 👨‍💻 [Writeups](https://github.com/TNI-Cybersec/.github/blob/main/profile/writeups.md)
 - [SEC Playground Challenges Compilation - Writeups](https://github.com/TNI-Cybersec/SECPlayground-Writeups) *←⏳WIP*
 - [STDiO CTF Competition 2022 - Writeups](https://github.com/TNI-Cybersec/STDiO_CTF_2022)
 - [KPMG Cyber Security Challenge 2021 - Writeups](https://github.com/TNI-Cybersec/KPMG_Cyber_Security_Challenge_2021_Writeups)
