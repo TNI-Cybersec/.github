@@ -31,6 +31,6 @@
 - [PopcatBot_BanProof](https://github.com/karinzaa/PopcatBot_BanProof) *5.02 R3 2021*
 - [PI-BENCHMARK](https://github.com/karinzaa/PI-BENCHMARK) *MIRAI [未来] 1.3BETA R1 2019*
 
-## 🤷‍♂️ [For Beginner]()
+## 🤷‍♂️ [For Beginner](https://github.com/TNI-Cybersec/.github/blob/main/profile/forbeginner.md)
 - [Cybersecurity Learning Path](https://docs.google.com/document/d/1JyOyCK6TmY-WOTmesg1ybG03_7t1eAFfV7E61vebEsw/edit?usp=sharing)
 - [GameOutSideGame](https://github.com/TanametTpk/gameOutSideGame/releases/tag/v1.0.0)
