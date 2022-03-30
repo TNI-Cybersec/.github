@@ -23,7 +23,7 @@
 - [NCSA - Thailand Cyber Top Talent 2021 - Writeups](https://github.com/karinzaa/NCSA_Senior_Write_Up)
 - [Thailand Cyber Top Students 2021 - Writeups](https://github.com/TNI-Cybersec/Thailand_Cyber_Top_Students_2021)
 
-## 🛠 Awesome tools
+## 🛠 [Awesome tools](https://github.com/TNI-Cybersec/.github/blob/main/profile/awesometools.md)
 - [PakFlag](https://github.com/TNI-Cybersec/PakFlag) *1.01 R1 2021*
 - [LucusExpress](https://github.com/karinzaa/LucusExpress) *2.00 R2 2021*
 - [CyberChef](https://gchq.github.io/CyberChef/) *9.32.3*
@@ -31,6 +31,6 @@
 - [PopcatBot_BanProof](https://github.com/karinzaa/PopcatBot_BanProof) *5.02 R3 2021*
 - [PI-BENCHMARK](https://github.com/karinzaa/PI-BENCHMARK) *MIRAI [未来] 1.3BETA R1 2019*
 
-## 🤷‍♂️ For Beginner
+## 🤷‍♂️ [For Beginner]()
 - [Cybersecurity Learning Path](https://docs.google.com/document/d/1JyOyCK6TmY-WOTmesg1ybG03_7t1eAFfV7E61vebEsw/edit?usp=sharing)
 - [GameOutSideGame](https://github.com/TanametTpk/gameOutSideGame/releases/tag/v1.0.0)
