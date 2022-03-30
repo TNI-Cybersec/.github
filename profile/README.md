@@ -5,7 +5,7 @@
 
 # 👋こんにちは世界!👋
 ## [T̵N̸I̶ ̵C̸y̴b̸e̴r̸s̵e̷c̵](https://tni-cybersec.github.io) *👈💻Our website ⏳WIP*
-|Cyber Club|[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)|
+|Cyber Club|[![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)|
 |----|----|
 
 ## 🔗 Links
@@ -13,7 +13,7 @@
 - [![TNI Cybersec Discord](https://img.shields.io/badge/TNI%20Cybersec-Join-black?style=social&logo=discord)](https://discord.gg/ETMkrHSGZG)
 - [Click me ๆ](https://tni-cybersec.github.io/nevergonnagiveyouup.html) *←What's this 👀*
 
-## 🧛‍♂️ Vulnerability
+## 🧛‍♂️ [Vulnerability](https://github.com/TNI-Cybersec/.github/blob/main/profile/vulnerability.md)
 - [log4shell-exploit](https://github.com/TNI-Cybersec/log4shell-exploit)
 
 ## 👨‍💻 Writeups
