@@ -4,7 +4,7 @@
 </br>	
 
 # 👋こんにちは世界!👋
-## [T̵N̸I̶ ̵C̸y̴b̸e̴r̸s̵e̷c̵](https://tni-cybersec.github.io) *👈💻Our website ⏳WIP*
+## [TNI-Cybersec](https://tni-cybersec.github.io) *👈💻Our website*
 |Cyber Club|[![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)|
 |----|----|
 
