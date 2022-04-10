@@ -34,3 +34,7 @@
 ## 🤷‍♂️ [For Beginner](https://github.com/TNI-Cybersec/.github/blob/main/profile/forbeginner.md)
 - [Cybersecurity Learning Path](https://docs.google.com/document/d/1JyOyCK6TmY-WOTmesg1ybG03_7t1eAFfV7E61vebEsw/edit?usp=sharing)
 - [GameOutSideGame](https://github.com/TanametTpk/gameOutSideGame/releases/tag/v1.0.0)
+
+## 💡 [Know-how](https://github.com/TNI-Cybersec/.github/blob/main/profile/knowhow.md)
+- [Let's sign your Git Commits (and why to?)](https://medium.com/@akaraX/1146cfa0a9c9) 🇹🇭
+- [How to Hash Passwords in Python](https://medium.com/@akaraX/62f11a3d8dae) 🇹🇭
