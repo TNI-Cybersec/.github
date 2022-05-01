@@ -12,8 +12,9 @@
 - [![TNI Cybersec Discord](https://img.shields.io/badge/TNI%20Cybersec-Join-black?style=social&logo=discord)](https://discord.gg/ETMkrHSGZG)
 - [Click me ๆ](https://tni-cybersec.github.io/nevergonnagiveyouup.html) *←What's this 👀*
 
-## 💡 Know-how
+## 💡 [Know-how](https://github.com/TNI-Cybersec/.github/blob/main/profile/knowhow.md)
 - [Let's sign your Git Commits (and why to?)](https://medium.com/@akaraX/1146cfa0a9c9) 🇹🇭
 - [How to Hash Passwords in Python](https://medium.com/@akaraX/62f11a3d8dae) 🇹🇭
+- [FinCyberSec-CheatSheet](https://github.com/babebbu/FinCyberSec-CheatSheet) 🇹🇭
 
 > **Note:** 🇹🇭 = Thai Language
