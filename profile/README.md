@@ -4,21 +4,21 @@
 </br>	
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> こんにちは世界! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-## [TNI Cybersec](https://tni-cybersec.github.io)👈`💻Our website`
+## [TNI Cybersec](https://tni-cybersec.github.io) `←💻Our website`
 |Cyber Club|[![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)|
 |----|----|
 
 ## 🔗 Links
 - [![TNI Cybersec Page](https://img.shields.io/badge/TNI%20Cybersec-Like-blue?style=social&logo=facebook)](https://www.facebook.com/TNICybersec)
 - [![TNI Cybersec Discord](https://img.shields.io/badge/TNI%20Cybersec-Join-black?style=social&logo=discord)](https://discord.gg/ETMkrHSGZG)
-- [Click me ๆ](https://tni-cybersec.github.io/nevergonnagiveyouup) *←What's this 👀*
+- [Click me ๆ](https://tni-cybersec.github.io/nevergonnagiveyouup) `← What's this 👀`
 
 ## 🧛‍♂️ [Vulnerability](https://github.com/TNI-Cybersec/.github/blob/main/profile/vulnerability.md)
 - [log4shell-exploit](https://github.com/TNI-Cybersec/log4shell-exploit)
 - [TNI-CWC-TheFools-FakeNews](https://github.com/babebbu/TNI-CWC-TheFools-FakeNews#tni-cwc-thefools-fakenews)
 
 ## 👨‍💻 [Writeups](https://github.com/TNI-Cybersec/.github/blob/main/profile/writeups.md)
-- [SEC Playground Challenges Compilation - Writeups](https://github.com/TNI-Cybersec/SECPlayground-Writeups) *←⏳WIP*
+- [SEC Playground Challenges Compilation - Writeups](https://github.com/TNI-Cybersec/SECPlayground-Writeups) `←⏳WIP`
 - [STDiO CTF Competition 2022 - Writeups](https://github.com/TNI-Cybersec/STDiO_CTF_2022)
 - [KPMG Cyber Security Challenge 2021 - Writeups](https://github.com/TNI-Cybersec/KPMG_Cyber_Security_Challenge_2021_Writeups)
 - [NCSA - Thailand Cyber Top Talent 2021 - Writeups](https://github.com/karinzaa/NCSA_Senior_Write_Up)
@@ -41,6 +41,6 @@
 - [GameOutSideGame](https://github.com/TanametTpk/gameOutSideGame/releases/tag/v1.0.0)
 
 ## 💡 [Know-how](https://github.com/TNI-Cybersec/.github/blob/main/profile/knowhow.md)
-- [Let's sign your Git Commits (and why to?)](https://medium.com/@akaraX/1146cfa0a9c9) 🇹🇭
-- [How to Hash Passwords in Python](https://medium.com/@akaraX/62f11a3d8dae) 🇹🇭
-- [FinCyberSec-CheatSheet](https://github.com/babebbu/FinCyberSec-CheatSheet) 🇹🇭
+- [Let's sign your Git Commits (and why to?)](https://medium.com/@akaraX/1146cfa0a9c9) `🇹🇭`
+- [How to Hash Passwords in Python](https://medium.com/@akaraX/62f11a3d8dae) `🇹🇭`
+- [FinCyberSec-CheatSheet](https://github.com/babebbu/FinCyberSec-CheatSheet) `🇹🇭`
