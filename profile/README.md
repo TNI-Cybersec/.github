@@ -11,7 +11,7 @@
 ## 🔗 Links
 - [![TNI Cybersec Page](https://img.shields.io/badge/TNI%20Cybersec-Like-blue?style=social&logo=facebook)](https://www.facebook.com/TNICybersec)
 - [![TNI Cybersec Discord](https://img.shields.io/badge/TNI%20Cybersec-Join-black?style=social&logo=discord)](https://discord.gg/ETMkrHSGZG)
-- [Click me ๆ](https://tni-cybersec.github.io/nevergonnagiveyouup) `← What's this 👀`
+- [Click me ๆ](https://tni-cybersec.github.io/nevergonnagiveyouup) `← What's this👀`
 
 ## 🧛‍♂️ [Vulnerability](https://github.com/TNI-Cybersec/.github/blob/main/profile/vulnerability.md)
 - [log4shell-exploit](https://github.com/TNI-Cybersec/log4shell-exploit)
