@@ -18,6 +18,7 @@
 - [TNI-CWC-TheFools-FakeNews](https://github.com/babebbu/TNI-CWC-TheFools-FakeNews#tni-cwc-thefools-fakenews)
 
 ## 👨‍💻 [Writeups](https://github.com/TNI-Cybersec/.github/blob/main/profile/writeups.md)
+- [Writeups Collection by TNI Cybersec](https://tni-cybersec.github.io/writeups) `←⏳WIP`
 - [SEC Playground Challenges Compilation - Writeups](https://github.com/TNI-Cybersec/SECPlayground-Writeups) `←⏳WIP`
 - [STDiO CTF Competition 2022 - Writeups](https://github.com/TNI-Cybersec/STDiO_CTF_2022)
 - [KPMG Cyber Security Challenge 2021 - Writeups](https://github.com/TNI-Cybersec/KPMG_Cyber_Security_Challenge_2021_Writeups)
