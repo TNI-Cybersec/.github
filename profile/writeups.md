@@ -13,7 +13,8 @@
 - [Click me ๆ](https://tni-cybersec.github.io/nevergonnagiveyouup.html) *←What's this 👀*
 
 ## 👨‍💻 [Writeups](https://github.com/TNI-Cybersec/.github/blob/main/profile/writeups.md)
-- [SEC Playground Challenges Compilation - Writeups](https://github.com/TNI-Cybersec/SECPlayground-Writeups) *←⏳WIP*
+- [Writeups Collection by TNI Cybersec](https://tni-cybersec.github.io/writeups) `←⏳WIP`
+- [SEC Playground Challenges Compilation - Writeups](https://github.com/TNI-Cybersec/SECPlayground-Writeups) `←⏳WIP`
 - [STDiO CTF Competition 2022 - Writeups](https://github.com/TNI-Cybersec/STDiO_CTF_2022)
 - [KPMG Cyber Security Challenge 2021 - Writeups](https://github.com/TNI-Cybersec/KPMG_Cyber_Security_Challenge_2021_Writeups)
 - [NCSA - Thailand Cyber Top Talent 2021 - Writeups](https://github.com/karinzaa/NCSA_Senior_Write_Up)
