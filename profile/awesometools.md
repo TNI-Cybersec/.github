@@ -13,11 +13,20 @@
 - [Click me ๆ](https://tni-cybersec.github.io/nevergonnagiveyouup.html) *←What's this 👀*
 
 ## 🛠 [Awesome tools](https://github.com/TNI-Cybersec/.github/blob/main/profile/awesometools.md)
-- [CyberChef](https://gchq.github.io/CyberChef/)
-- [CTF-Tools](https://github.com/babebbu/CTF-Tools)
+- [CyberChef](https://gchq.github.io/CyberChef)
+- [Burp Suite](https://portswigger.net/burp)
+- [OWASP ZAP](https://www.zaproxy.org)
 - [dnSpy](https://github.com/dnSpy/dnSpy)
 - [IDA](https://hex-rays.com/ida-free/#download)
-- [Ghidra](https://ghidra-sre.org/)
+- [Ghidra](https://ghidra-sre.org)
+- [testssl.sh](https://github.com/drwetter/testssl.sh)
+- [DirBuster ](https://github.com/KajanM/DirBuster)
+- [LinPEAS](https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS)
+- [Nmap](https://nmap.org)
+- [Wireshark](https://www.wireshark.org/download.html)
+- [HxD](https://mh-nexus.de/en/hxd)
+- [CTF-Tools](https://github.com/babebbu/CTF-Tools)
+- [Wastc](https://github.com/babebbu/wastc)
 
 ### 🛠 TNI Cybersec Original
     Original tool by TNI Cybersec teams and made with ❤️
@@ -27,4 +36,3 @@
  - [Google Scraping](https://github.com/richeyphu/ITE-425/blob/main/ML/Assignment-1.py) `1.0BETA R1 2022`
  - [PopcatBot_BanProof](https://github.com/karinzaa/PopcatBot_BanProof) `5.02 R3 2021`
  - [CaptureSim](https://github.com/babebbu/CaptureSim) `2.2.2`
- - [Wastc](https://github.com/babebbu/wastc)
