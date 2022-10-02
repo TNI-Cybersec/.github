@@ -28,7 +28,7 @@
 - [CTF-Tools](https://github.com/babebbu/CTF-Tools)
 - [Wastc](https://github.com/babebbu/wastc)
 
-### 🛠 TNI Cybersec Original
+### <img align="center" src="https://imgur.com/SN6ZqUt.png" width="25"></img> TNI Cybersec Original
     Original tool by TNI Cybersec teams and made with ❤️
  - [PakFlag](https://github.com/TNI-Cybersec/PakFlag) `1.01 R1 2021`
  - [LucusExpress](https://github.com/karinzaa/LucusExpress) `2.00 R2 2021`
