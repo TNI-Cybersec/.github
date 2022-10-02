@@ -13,12 +13,17 @@
 - [Click me ๆ](https://tni-cybersec.github.io/nevergonnagiveyouup.html) *←What's this 👀*
 
 ## 🛠 [Awesome tools](https://github.com/TNI-Cybersec/.github/blob/main/profile/awesometools.md)
-- [PakFlag](https://github.com/TNI-Cybersec/PakFlag) `1.01 R1 2021`
-- [LucusExpress](https://github.com/karinzaa/LucusExpress) `2.00 R2 2021`
-- [CyberChef](https://gchq.github.io/CyberChef/) `9.32.3`
-- [Google Scraping](https://github.com/richeyphu/ITE-425/blob/main/ML/Assignment-1.py) `1.0BETA R1 2022`
-- [PopcatBot_BanProof](https://github.com/karinzaa/PopcatBot_BanProof) `5.02 R3 2021`
-- [PI-BENCHMARK](https://github.com/karinzaa/PI-BENCHMARK) `MIRAI [未来] 1.3BETA R1 2019`
-- [CaptureSim](https://github.com/babebbu/CaptureSim) `2.2.2`
-- [Wastc](https://github.com/babebbu/wastc)
+- [CyberChef](https://gchq.github.io/CyberChef/)
 - [CTF-Tools](https://github.com/babebbu/CTF-Tools)
+- [dnSpy](https://github.com/dnSpy/dnSpy)
+- [IDA](https://hex-rays.com/ida-free/#download)
+- [Ghidra](https://ghidra-sre.org/)
+
+### 🛠 TNI Cybersec Original
+ - [PakFlag](https://github.com/TNI-Cybersec/PakFlag) `1.01 R1 2021`
+ - [LucusExpress](https://github.com/karinzaa/LucusExpress) `2.00 R2 2021`
+ - [PI-BENCHMARK](https://github.com/karinzaa/PI-BENCHMARK) `MIRAI [未来] 1.3BETA R1 2019`
+ - [Google Scraping](https://github.com/richeyphu/ITE-425/blob/main/ML/Assignment-1.py) `1.0BETA R1 2022`
+ - [PopcatBot_BanProof](https://github.com/karinzaa/PopcatBot_BanProof) `5.02 R3 2021`
+ - [CaptureSim](https://github.com/babebbu/CaptureSim) `2.2.2`
+ - [Wastc](https://github.com/babebbu/wastc)
