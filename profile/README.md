@@ -27,11 +27,19 @@
 - [Zoro-WriteUp](https://github.com/babebbu/Zoro-WriteUp)
 
 ## 🛠 [Awesome tools](https://github.com/TNI-Cybersec/.github/blob/main/profile/awesometools.md)
-- [CyberChef](https://gchq.github.io/CyberChef/)
-- [CTF-Tools](https://github.com/babebbu/CTF-Tools)
+- [CyberChef](https://gchq.github.io/CyberChef)
+- [Burp Suite](https://portswigger.net/burp)
+- [OWASP ZAP](https://www.zaproxy.org)
 - [dnSpy](https://github.com/dnSpy/dnSpy)
 - [IDA](https://hex-rays.com/ida-free/#download)
-- [Ghidra](https://ghidra-sre.org/)
+- [Ghidra](https://ghidra-sre.org)
+- [testssl.sh](https://github.com/drwetter/testssl.sh)
+- [DirBuster ](https://github.com/KajanM/DirBuster)
+- [LinPEAS](https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS)
+- [Nmap](https://nmap.org)
+- [Wireshark](https://www.wireshark.org/download.html)
+- [HxD](https://mh-nexus.de/en/hxd)
+- [CTF-Tools](https://github.com/babebbu/CTF-Tools)
 
 ### 🛠 TNI Cybersec Original
     Original tool by TNI Cybersec teams and made with ❤️
