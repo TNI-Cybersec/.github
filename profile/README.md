@@ -4,7 +4,7 @@
 </br>	
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> こんにちは世界! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-## [TNI Cybersec](https://tni-cybersec.github.io) `←💻 Our website`
+## [TNI Cybersec](https://tni-cybersec.github.io) `← 💻 Our website`
 |Cyber Club|[![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)|
 |----|----|
 
