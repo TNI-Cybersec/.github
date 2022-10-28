@@ -16,6 +16,7 @@
 - [Let's sign your Git Commits (and why to?)](https://medium.com/@akaraX/1146cfa0a9c9) `🇹🇭`
 - [How to Hash Passwords in Python](https://medium.com/@akaraX/62f11a3d8dae) `🇹🇭`
 - [FinCyberSec-CheatSheet](https://github.com/babebbu/FinCyberSec-CheatSheet) `🇹🇭`
-- [HACKING GOOGLE](https://www.youtube.com/playlist?list=PL590L5WQmH8dsxxz7ooJAgmijwOz0lh2H)
+- [HACKING GOOGLE](https://www.youtube.com/playlist?list=PL590L5WQmH8dsxxz7ooJAgmijwOz0lh2H) `🇬🇧`
 
-> **Note:** 🇹🇭 = Thai Language
+> **Note:** `🇹🇭` = Thai Language
+>           `🇬🇧` = Englist Language
