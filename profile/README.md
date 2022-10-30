@@ -26,7 +26,8 @@
 - [Thailand Cyber Top Students 2021 - Writeups](https://github.com/TNI-Cybersec/Thailand_Cyber_Top_Students_2021)
 - [Zoro-WriteUp](https://github.com/babebbu/Zoro-WriteUp)
 
-## 🛠 [Awesome tools](https://github.com/TNI-Cybersec/.github/blob/main/profile/awesometools.md)
+## 🛠 [Awesome Tools](https://github.com/TNI-Cybersec/.github/blob/main/profile/awesometools.md)
+- [Awesome Tools Collection by TNI Cybersec](https://tni-cybersec.github.io/tools) `←⏳WIP`
 - [CyberChef](https://gchq.github.io/CyberChef)
 - [Burp Suite](https://portswigger.net/burp)
 - [OWASP ZAP](https://www.zaproxy.org)
