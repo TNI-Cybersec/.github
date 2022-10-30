@@ -50,7 +50,7 @@ Original tool by TNI Cybersec teams and made with ❤️
  - [Google Scraping](https://github.com/richeyphu/ITE-425/blob/main/ML/Assignment-1.py) `1.0BETA R1 2022`
  - [PopcatBot_BanProof](https://github.com/karinzaa/PopcatBot_BanProof) `5.02 R3 2021`
  - [CaptureSim](https://github.com/babebbu/CaptureSim) `2.2.2`
- - [Lab for Cyber Security Penetration](https://tnitechnology-my.sharepoint.com/:u:/g/personal/vi_karin_st_ms_tni_ac_th/EaUIW1WcaXxHhJtwaHICE4sBxU-l14zbyLAQuGuuz-1Z6g)
+ - [Lab for Cyber Security Penetration](https://tnitechnology-my.sharepoint.com/:u:/g/personal/vi_karin_st_ms_tni_ac_th/EaUIW1WcaXxHhJtwaHICE4sBxU-l14zbyLAQuGuuz-1Z6g) `5.3`
 
 ## 🤷‍♂️ [For Beginner](https://github.com/TNI-Cybersec/.github/blob/main/profile/forbeginner.md)
 - [Cybersecurity Learning Path](https://docs.google.com/document/d/1JyOyCK6TmY-WOTmesg1ybG03_7t1eAFfV7E61vebEsw/edit?usp=sharing)
