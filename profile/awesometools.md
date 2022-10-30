@@ -27,6 +27,7 @@
 - [HxD](https://mh-nexus.de/en/hxd)
 - [CTF-Tools](https://github.com/babebbu/CTF-Tools)
 - [Wastc](https://github.com/babebbu/wastc)
+- [Lab for Cyber Security Penetration](https://tnitechnology-my.sharepoint.com/:u:/g/personal/vi_karin_st_ms_tni_ac_th/EaUIW1WcaXxHhJtwaHICE4sBxU-l14zbyLAQuGuuz-1Z6g)
 
 ### <img align="center" src="https://github.com/TNI-Cybersec/tni-cybersec.github.io/blob/main/img/icons/icon-96x96.png?raw=true" width="25"></img> TNI Cybersec Original
 Original tool by TNI Cybersec teams and made with ❤️
