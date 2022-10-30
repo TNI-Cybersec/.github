@@ -41,7 +41,6 @@
 - [HxD](https://mh-nexus.de/en/hxd)
 - [CTF-Tools](https://github.com/babebbu/CTF-Tools)
 - [Wastc](https://github.com/babebbu/wastc)
-- [Lab for Cyber Security Penetration](https://tnitechnology-my.sharepoint.com/:u:/g/personal/vi_karin_st_ms_tni_ac_th/EaUIW1WcaXxHhJtwaHICE4sBxU-l14zbyLAQuGuuz-1Z6g)
 
 ### <img align="center" src="https://github.com/TNI-Cybersec/tni-cybersec.github.io/blob/main/img/icons/icon-96x96.png?raw=true" width="25"></img> TNI Cybersec Original
 Original tool by TNI Cybersec teams and made with ❤️
@@ -51,6 +50,7 @@ Original tool by TNI Cybersec teams and made with ❤️
  - [Google Scraping](https://github.com/richeyphu/ITE-425/blob/main/ML/Assignment-1.py) `1.0BETA R1 2022`
  - [PopcatBot_BanProof](https://github.com/karinzaa/PopcatBot_BanProof) `5.02 R3 2021`
  - [CaptureSim](https://github.com/babebbu/CaptureSim) `2.2.2`
+ - [Lab for Cyber Security Penetration](https://tnitechnology-my.sharepoint.com/:u:/g/personal/vi_karin_st_ms_tni_ac_th/EaUIW1WcaXxHhJtwaHICE4sBxU-l14zbyLAQuGuuz-1Z6g)
 
 ## 🤷‍♂️ [For Beginner](https://github.com/TNI-Cybersec/.github/blob/main/profile/forbeginner.md)
 - [Cybersecurity Learning Path](https://docs.google.com/document/d/1JyOyCK6TmY-WOTmesg1ybG03_7t1eAFfV7E61vebEsw/edit?usp=sharing)
