@@ -20,3 +20,4 @@
 - [NCSA - Thailand Cyber Top Talent 2021 - Writeups](https://github.com/karinzaa/NCSA_Senior_Write_Up)
 - [Thailand Cyber Top Students 2021 - Writeups](https://github.com/TNI-Cybersec/Thailand_Cyber_Top_Students_2021)
 - [Zoro-WriteUp](https://github.com/babebbu/Zoro-WriteUp)
+- [FIN_ACK_300-FinCyberSecTH2019-Hardening-WriteUp](https://github.com/babebbu/FIN_ACK_300-FinCyberSecTH2019-Hardening-WriteUp)
