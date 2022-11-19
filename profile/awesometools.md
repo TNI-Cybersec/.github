@@ -12,7 +12,8 @@
 - [![TNI Cybersec Discord](https://img.shields.io/badge/TNI%20Cybersec-Join-black?style=social&logo=discord)](https://discord.gg/ETMkrHSGZG)
 - [Click me ๆ](https://tni-cybersec.github.io/nevergonnagiveyouup.html) *←What's this 👀*
 
-## 🛠 [Awesome tools](https://github.com/TNI-Cybersec/.github/blob/main/profile/awesometools.md)
+## 🛠 [Awesome Tools](https://github.com/TNI-Cybersec/.github/blob/main/profile/awesometools.md)
+- [Awesome Tools Collection by TNI Cybersec](https://tni-cybersec.github.io/tools) `←⏳WIP`
 - [CyberChef](https://gchq.github.io/CyberChef)
 - [Burp Suite](https://portswigger.net/burp)
 - [OWASP ZAP](https://www.zaproxy.org)
@@ -32,8 +33,12 @@
 Original tool by TNI Cybersec teams and made with ❤️
  - [PakFlag](https://github.com/TNI-Cybersec/PakFlag) `1.01 R1 2021`
  - [LucusExpress](https://github.com/karinzaa/LucusExpress) `2.00 R2 2021`
- - [PI-BENCHMARK](https://github.com/karinzaa/PI-BENCHMARK) `MIRAI [未来] 1.3BETA R1 2019`
+ - [PI-BENCHMARK](https://github.com/karinzaa/PI-BENCHMARK) `KAIZEN [改善] 2.0 R2 2022`
  - [Google Scraping](https://github.com/richeyphu/ITE-425/blob/main/ML/Assignment-1.py) `1.0BETA R1 2022`
  - [PopcatBot_BanProof](https://github.com/karinzaa/PopcatBot_BanProof) `5.02 R3 2021`
- - [CaptureSim](https://github.com/babebbu/CaptureSim) `2.2.2`
+ - [CaptureSim](https://github.com/babebbu/CaptureSim) `Null`
+ - [TNIWorldClass2](https://github.com/babebbu/TNIWorldClass2) `Null`
+ - [TNIWorldClass2-All](https://github.com/babebbu/TNIWorldClass2-All) `Null`
+ - [TNI-CWC-GGEZ-Hosting](https://github.com/babebbu/TNI-CWC-GGEZ-Hosting) `Null`
+ - [TNI-CWC-TheFools-FakeNews](https://github.com/babebbu/TNI-CWC-TheFools-FakeNews#tni-cwc-thefools-fakenews) `Null`
  - [Lab for Cyber Security Penetration](https://tnitechnology-my.sharepoint.com/:u:/g/personal/vi_karin_st_ms_tni_ac_th/EaUIW1WcaXxHhJtwaHICE4sBxU-l14zbyLAQuGuuz-1Z6g) `5.3`
