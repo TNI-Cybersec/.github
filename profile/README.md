@@ -45,7 +45,8 @@
 
 ### <img align="center" src="https://github.com/TNI-Cybersec/tni-cybersec.github.io/blob/main/img/icons/icon-96x96.png?raw=true" width="25"></img> TNI Cybersec Original
 Original tool by TNI Cybersec teams and made with ❤️
- - [PakFlag](https://github.com/TNI-Cybersec/PakFlag) `1.01 R1 2021`
+ - [PakFlag](https://github.com/TNI-Cybersec/PakFlag) `1.1 R1 2021`
+ - [Certgen](https://github.com/TNI-Cybersec/Certgen) `1.1 R1 2022`
  - [LucusExpress](https://github.com/karinzaa/LucusExpress) `2.00 R2 2021`
  - [PI-BENCHMARK](https://github.com/karinzaa/PI-BENCHMARK) `KAIZEN [改善] 2.0 R2 2022`
  - [Google Scraping](https://github.com/richeyphu/ITE-425/blob/main/ML/Assignment-1.py) `1.0BETA R1 2022`
