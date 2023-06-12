@@ -3,7 +3,7 @@
 <p align="center">
 </br>	
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> こんにちは世界! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> ようこそ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 ## [![TNI Cybersec Page](https://img.shields.io/badge/🌐TNI%20Cybersec-↖Click!-white?style=for-the-badge)](https://tni-cybersec.github.io)
 |Cyber Club|[![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)|
 |----|----|
