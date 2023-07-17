@@ -18,5 +18,6 @@
 - [FinCyberSec-CheatSheet](https://github.com/babebbu/FinCyberSec-CheatSheet) `🇹🇭`
 - [HACKING GOOGLE](https://www.youtube.com/playlist?list=PL590L5WQmH8dsxxz7ooJAgmijwOz0lh2H) `🇬🇧`
 
-> **Note:** `🇹🇭` = Thai Language
->           `🇬🇧` = Englist Language
+> **Note**:
+> `🇹🇭` = Thai Language
+> `🇬🇧` = English Language
