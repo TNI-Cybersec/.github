@@ -46,6 +46,7 @@
 ### <img align="center" src="https://github.com/TNI-Cybersec/tni-cybersec.github.io/blob/main/img/icons/icon-96x96.png?raw=true" width="25"></img> TNI Cybersec Original
 Original tool by TNI Cybersec teams and made with ❤️
  - [Parking Miru](https://github.com/TNI-Cybersec/Parking-Miru) `Beta`
+ - [TNICybersec-CWC](https://github.com/TNI-Cybersec/TNICybersec-CWC) `Legacy`
  - [PakFlag](https://github.com/TNI-Cybersec/PakFlag) `1.1 R1 2021`
  - [Certgen](https://github.com/TNI-Cybersec/Certgen) `1.1 R1 2022`
  - [LucusExpress](https://github.com/karinzaa/LucusExpress) `2.00 R2 2021`
