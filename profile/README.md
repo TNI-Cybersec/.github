@@ -4,7 +4,7 @@
 </br>	
 
 # 👋ようこそ!👋
-## [![TNI Cybersec Page](https://img.shields.io/badge/🌐TNI%20Cybersec-↖Click!-white?style=for-the-badge)](https://tni-cybersec.github.io)
+## [![TNI Cybersec Page](https://img.shields.io/badge/🌐TNI%20Cybersec%20WEB-↖Click!-white?style=for-the-badge)](https://tni-cybersec.github.io)
 |Cyber Club|[![License: MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)|
 |----|----|
 
