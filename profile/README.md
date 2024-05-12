@@ -1,7 +1,6 @@
 <br>
-<img align="right" src="https://imgur.com/ozPvwmg.png" width="450"></img>
-<p align="center">
-</br>	
+<img src="https://github.com/TNI-Cybersec/tni-cybersec.github.io/blob/main/img/TNICyberWeb.png" style="display: block; margin-left: auto; margin-right: auto; width: auto;" alt="JunctionKansh Logo">
+</br>
 
 # 👋ようこそ!👋
 ## [![TNI Cybersec Page](https://img.shields.io/badge/🌐TNI%20Cybersec%20WEB-↖Click!-white?style=for-the-badge)](https://tni-cybersec.github.io)
